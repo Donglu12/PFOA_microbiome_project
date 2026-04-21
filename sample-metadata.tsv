@@ -1,0 +1,14 @@
+sample-id	Group	cage	gender	age
+#q2:types	categorical	categorical	categorical	categorical
+C1	Ctrl	cage1	male	12weeks old
+C2	Ctrl	cage1	male	12weeks old
+C3	Ctrl	cage1	male	12weeks old
+C4	Ctrl	cage2	male	12weeks old
+C5	Ctrl	cage2	male	12weeks old
+C6	Ctrl	cage2	male	12weeks old
+H1	HP	cage3	male	12weeks old
+H2	HP	cage3	male	12weeks old
+H3	HP	cage3	male	12weeks old
+H4	HP	cage4	male	12weeks old
+H5	HP	cage4	male	12weeks old
+H6	HP	cage4	male	12weeks old
