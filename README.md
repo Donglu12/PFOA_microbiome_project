@@ -11,3 +11,5 @@ This repository contains scripts used for QIIME2 processing and R-based microbio
 
 ## Metadata
 - sample-metadata.tsv
+
+- qiime2_commands.sh: complete QIIME2 command record for sequence processing, diversity analysis, taxonomy, ANCOM-BC, and Random Forest classification
